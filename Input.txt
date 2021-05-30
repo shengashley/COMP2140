@@ -1,0 +1,16 @@
+ADD Atwood, Margaret, The Handmaid's Tale
+ADD Montgomery, L.M., Anne of Green Gables
+ADD Martel, Yann, Life of Pi
+ADD Atwood, Margaret, Alias Grace
+ADD Ondaatje, Michael, The English Patient
+ADD Toews, M., A Complicated Kindness
+SEARCHA Atwood
+GETBOOK Martel, Yann, Life of Pi
+ADD Shields, Carol, The Stone Diaries
+ADD Mistry, Rohinton, A Fine Balance
+ADD Fitzgerald, , The Great Gatsby
+GETBOOK Shields, Carol, The Stone Diaries
+ADD Margaret, Atwood, Alias Grace
+SEARCHT Alias Grace
+RETURNBOOK Martel, Yann, Life of Pi
+SEARCHA Fitzgerald
